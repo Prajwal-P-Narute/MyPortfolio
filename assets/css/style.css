@@ -1164,3 +1164,10 @@ section {
 #footer .credits {
   font-size: 13px;
 }
+
+.twitter svg {
+  width: 24px;
+  height: 24px;
+  fill: #000; /* Black for the X logo */
+}
+
